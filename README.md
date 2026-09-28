@@ -23,3 +23,6 @@ Para calcular o valor gasto por mês, o programa multiplica o valor de consumo m
 cd Consumo-energia
 python app.py
 ```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
